@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiwantha" alt="chiwantha" /></a> </p>
 
-- 🌱 I’m currently learning **React, Javascript**
-
-- 💬 Ask me about **jQuery, C#, C++**
+- 💬 Ask me about **jQuery, C#, C++, Python, React, JavaScript, Next.JS**
 
 - 📫 How to reach me **kasunchiwantha789@gmail.com**
 
