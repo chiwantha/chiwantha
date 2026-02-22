@@ -1,194 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kasun Chiwantha | Portfolio</title>
+<h1 align="center">👋 Kasun Chiwantha</h1>
+<h3 align="center">🇱🇰 Software Engineer | Full-Stack Developer</h3>
 
-  <!-- Google Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<p align="center">
+  <a href="mailto:kasunchiwantha789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/chiwantha">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
+---
 
-    body {
-      background: #0f172a;
-      color: #fff;
-      line-height: 1.6;
-    }
+## 🧠 About Me
 
-    .container {
-      width: 90%;
-      max-width: 1200px;
-      margin: auto;
-    }
+💻 Full-stack developer building scalable systems  
+🚀 Focused on **React / Next.js / Multi-tenant apps**  
+🎧 Also a **Sound Engineer & Studio Owner**  
+🏢 Running a **Tech + Music Company (K-Chord)**  
 
-    /* HERO */
-    .hero {
-      text-align: center;
-      padding: 80px 20px;
-    }
+---
 
-    .hero h1 {
-      font-size: 3rem;
-      font-weight: 700;
-    }
+## ⚡ Tech Stack
 
-    .hero h3 {
-      color: #38bdf8;
-      margin-top: 10px;
-      font-weight: 400;
-    }
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,python,cs,cpp,php,mysql,nodejs,linux,tailwind,git" />
+</p>
 
-    .hero p {
-      margin-top: 20px;
-      color: #94a3b8;
-    }
+---
 
-    .btn {
-      display: inline-block;
-      margin-top: 25px;
-      padding: 12px 25px;
-      background: #38bdf8;
-      color: #000;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: 600;
-      transition: 0.3s;
-    }
+## 🚀 Featured Work
 
-    .btn:hover {
-      background: #0ea5e9;
-    }
+🔹 School Management System (Python + Flask + Qt)  
+🔹 POS & Inventory System (C# + MSSQL + Crystal Reports)  
+🔹 Ticket Booking Platform (MERN + MySQL)  
+🔹 Vendor Travel Platform (PHP + Map Integration)  
 
-    /* SECTION */
-    section {
-      padding: 60px 0;
-    }
+---
 
-    .section-title {
-      text-align: center;
-      margin-bottom: 40px;
-      font-size: 2rem;
-    }
+## 🔗 Connect
 
-    /* ABOUT */
-    .about {
-      text-align: center;
-      max-width: 800px;
-      margin: auto;
-      color: #cbd5f5;
-    }
+<p align="center">
+  <a href="https://linkedin.com/in/kasun-chiwantha-5168b4323">LinkedIn</a> •
+  <a href="https://fb.com/kasunchiwantha">Facebook</a> •
+  <a href="https://youtube.com/c/kasunchiwantha">YouTube</a>
+</p>
 
-    /* SKILLS */
-    .skills {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-      gap: 20px;
-      text-align: center;
-    }
+---
 
-    .skill {
-      background: #1e293b;
-      padding: 20px;
-      border-radius: 12px;
-      transition: 0.3s;
-    }
+## 📊 Stats
 
-    .skill:hover {
-      transform: translateY(-5px);
-      background: #334155;
-    }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiwantha&show_icons=true&theme=tokyonight" />
+</p>
 
-    /* SOCIAL */
-    .socials {
-      text-align: center;
-    }
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiwantha&theme=tokyonight" />
+</p>
 
-    .socials a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: #38bdf8;
-      font-weight: 600;
-    }
+---
 
-    /* FOOTER */
-    footer {
-      text-align: center;
-      padding: 20px;
-      color: #94a3b8;
-      border-top: 1px solid #1e293b;
-    }
+## 💡 Motto
 
-  </style>
-</head>
-
-<body>
-
-  <!-- HERO -->
-  <section class="hero">
-    <div class="container">
-      <h1>👋 Hi, I'm Kasun Chiwantha</h1>
-      <h3>🇱🇰 Software Engineer | Full-Stack Developer</h3>
-      <p>Building scalable apps, modern web platforms & tech solutions</p>
-      <a href="mailto:kasunchiwantha789@gmail.com" class="btn">Contact Me</a>
-    </div>
-  </section>
-
-  <!-- ABOUT -->
-  <section>
-    <div class="container">
-      <h2 class="section-title">🧠 About Me</h2>
-      <p class="about">
-        I'm a full-stack developer working on multi-tenant systems, React & Next.js apps,
-        and studio tech solutions. I also run a tech + music production company.
-      </p>
-    </div>
-  </section>
-
-  <!-- SKILLS -->
-  <section>
-    <div class="container">
-      <h2 class="section-title">🛠️ Tech Stack</h2>
-      <div class="skills">
-        <div class="skill">JavaScript</div>
-        <div class="skill">React</div>
-        <div class="skill">Next.js</div>
-        <div class="skill">Python</div>
-        <div class="skill">C#</div>
-        <div class="skill">C++</div>
-        <div class="skill">PHP</div>
-        <div class="skill">MySQL</div>
-        <div class="skill">MSSQL</div>
-        <div class="skill">Node.js</div>
-        <div class="skill">Linux</div>
-        <div class="skill">Tailwind</div>
-      </div>
-    </div>
-  </section>
-
-  <!-- SOCIAL -->
-  <section>
-    <div class="container">
-      <h2 class="section-title">🔗 Connect With Me</h2>
-      <div class="socials">
-        <a href="https://linkedin.com/in/kasun-chiwantha-5168b4323" target="_blank">LinkedIn</a>
-        <a href="https://fb.com/kasunchiwantha" target="_blank">Facebook</a>
-        <a href="https://www.youtube.com/c/kasunchiwantha" target="_blank">YouTube</a>
-        <a href="https://github.com/chiwantha" target="_blank">GitHub</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-  <footer>
-    © 2026 Kasun Chiwantha | Built with ❤️
-  </footer>
-
-</body>
-</html>
+> Build. Scale. Automate. Repeat.
